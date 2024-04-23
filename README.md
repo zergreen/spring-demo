@@ -2,7 +2,7 @@
 - use spring initialize for build sprigng
 <img width="1440" alt="image" src="https://github.com/zergreen/spring-demo/assets/68957232/cee9f7cb-7cc2-449b-a05c-e4b6802942c0">
 
-- zip file and locate to rootfolder then run: mvn spring-boot:run 
+- zip file and locate to rootfolder then run: `mvn spring-boot:run `
 - fyi : install mvn before
 
 after complete then go to browser and search with this url:http://localhost:8080/users/mama
