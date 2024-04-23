@@ -9,7 +9,7 @@ after complete then go to browser and search with this url:http://localhost:8080
 <img width="1025" alt="image" src="https://github.com/zergreen/spring-demo/assets/68957232/2e8bd6e8-16ab-4f3c-a7ce-39737f13e825">
 
 # send request by postman
-import file import-postman.json in postman.
+import file import-postman.json in postman. [.json](https://github.com/zergreen/spring-demo/blob/master/import-postman.json)
 then it's will get this: Spring Boot CRUD Example as you can see
 <img width="1134" alt="image" src="https://github.com/zergreen/spring-demo/assets/68957232/3aca8b92-a34a-4cfa-b18b-1fe0c731b102">
 
